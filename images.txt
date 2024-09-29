@@ -1,7 +1,9 @@
 #支持指定架构
 #--platform=linux/amd64
 
-library/centos
+condaforge/mambaforge
+ubuntu:20.04
+#library/centos
 # langgenius/dify-api:0.7.3
 # langgenius/dify-api:0.7.3
 # langgenius/dify-web:0.7.3
