@@ -1,7 +1,7 @@
 #支持指定架构
---platform=linux/v8
+--platform=arm64
 
-#condaforge/mambaforge
+condaforge/mambaforge
 #ubuntu:20.04
 
 #library/centos
