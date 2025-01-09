@@ -4,6 +4,8 @@
 #minio
 #condaforge/mambaforge
 #ubuntu:20.04
+node:14
+node:14-alpine
 
 #library/centos
 # langgenius/dify-api:0.7.3
