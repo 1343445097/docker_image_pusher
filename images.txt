@@ -5,7 +5,7 @@
 #condaforge/mambaforge
 #ubuntu:20.04
 node:14
-node:14-alpine
+node:18-alpine
 python:3.12-slim
 
 #library/centos
