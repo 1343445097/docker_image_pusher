@@ -2,6 +2,7 @@
 --platform=linux/amd64 pgvector/pgvector:pg16
 --platform=linux/amd64 node:20.10.0
 --platform=linux/amd64 nginx:mainline
+--platform=linux/arm64 prom/prometheus
 #minio
 #condaforge/mambaforge
 #ubuntu:20.04
