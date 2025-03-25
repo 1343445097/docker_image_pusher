@@ -4,6 +4,7 @@
 --platform=linux/amd64 nginx:mainline
 --platform=linux/arm64 prom/prometheus
 --platform=linux/arm64 ghcr.io/berriai/litellm:main-stable
+--platform=linux/arm64 postgres:16
 #minio
 #condaforge/mambaforge
 #ubuntu:20.04
