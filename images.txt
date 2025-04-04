@@ -12,6 +12,14 @@ node:14
 node:18-alpine
 python:3.12-slim
 
+
+langgenius/dify-api:0.6.11
+langgenius/dify-web:0.6.11
+redis:6-alpine
+semitechnologies/weaviate:1.19.0
+langgenius/dify-sandbox:0.2.1
+ubuntu/squid:latest
+
 #library/centos
 # langgenius/dify-api:0.7.3
 # langgenius/dify-api:0.7.3
