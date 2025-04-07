@@ -1,24 +1,24 @@
 #支持指定架构
---platform=linux/amd64 pgvector/pgvector:pg16
---platform=linux/amd64 node:20.10.0
---platform=linux/amd64 nginx:mainline
---platform=linux/arm64 prom/prometheus
---platform=linux/arm64 ghcr.io/berriai/litellm:main-stable
---platform=linux/arm64 postgres:16
+#--platform=linux/amd64 pgvector/pgvector:pg16
+#--platform=linux/amd64 node:20.10.0
+#--platform=linux/amd64 nginx:mainline
+#--platform=linux/arm64 prom/prometheus
+#--platform=linux/arm64 ghcr.io/berriai/litellm:main-stable
+#--platform=linux/arm64 postgres:16
 #minio
 #condaforge/mambaforge
 #ubuntu:20.04
-node:14
-node:18-alpine
+#node:14
+#node:18-alpine
 python:3.12.4-slim
 
 
-langgenius/dify-api:0.6.11
-langgenius/dify-web:0.6.11
-redis:6-alpine
-semitechnologies/weaviate:1.19.0
-langgenius/dify-sandbox:0.2.1
-ubuntu/squid:latest
+#langgenius/dify-api:0.6.11
+#langgenius/dify-web:0.6.11
+#redis:6-alpine
+#semitechnologies/weaviate:1.19.0
+#langgenius/dify-sandbox:0.2.1
+#ubuntu/squid:latest
 
 #library/centos
 # langgenius/dify-api:0.7.3
