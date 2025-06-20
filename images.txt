@@ -5,7 +5,7 @@
 #--platform=linux/arm64 prom/prometheus
 #--platform=linux/arm64 ghcr.io/berriai/litellm:main-stable
 #--platform=linux/arm64 postgres:16
---platform=linux/arm64 conda-forge/mambaforge
+--platform=linux/arm64 mambaforge
 #minio
 #condaforge/mambaforge
 #ubuntu:20.04
