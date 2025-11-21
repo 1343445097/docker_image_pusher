@@ -12,6 +12,7 @@
 --platform=linux/amd64 ubuntu:22.04
 --platform=linux/arm64 emqx/emqx-enterprise
 --platform=linux/arm64 rust:latest
+--platform=linux/arm64 nailyudha/tauri
 #minio
 #condaforge/mambaforge
 #ubuntu:20.04
