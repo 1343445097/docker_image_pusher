@@ -13,6 +13,7 @@
 --platform=linux/arm64 emqx/emqx-enterprise
 --platform=linux/arm64 rust:latest
 --platform=linux/arm64 nailyudha/tauri
+--platform=linux/arm64 ivangabriele/tauri:fedora-40-22-nightly
 #minio
 #condaforge/mambaforge
 #ubuntu:20.04
