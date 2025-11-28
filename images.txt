@@ -14,7 +14,6 @@
 --platform=linux/arm64 rust:latest
 --platform=linux/arm64 nailyudha/tauri
 --platform=linux/arm64 ivangabriele/tauri:fedora-40-22-nightly
-emqx/emqx-enterprise:6.0.0-ubi8
 zhaojh329/rttys:latest
 #minio
 #condaforge/mambaforge
